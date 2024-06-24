@@ -1,0 +1,3 @@
+package-as: BattleRezponder
+ignore:
+  - images # ignore the scripts folder

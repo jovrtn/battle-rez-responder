@@ -1,0 +1,7 @@
+## Interface: 100207
+## Title: Battle Rezponder
+## IconTexture: 136080
+## Version: 0.1.0
+## Notes: Automatically respond in chat when someone asks for a battle rez.
+
+BattleRezponder.lua
